@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rezashokrzad
-- 👀 I’m interested in ML, AI, Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, ML, DL, AI, GA, SQL, Planning, Supply Chain Management
+- 📫 How to reach me :
+- https://www.linkedin.com/in/rezashokrzad/
+- https://www.kaggle.com/rezashokrzad
 
 <!---
 rezashokrzad/rezashokrzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
