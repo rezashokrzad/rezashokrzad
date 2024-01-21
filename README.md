@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezashokrzad
-- 👀 I’m interested in Data Science, ML, DL, AI, GA, SQL, Planning, Supply Chain Management
+- 👀 I’m interested in Data Science, ML, DL, AI, GA, Statistics, Mathematics
 - 📫 How to reach me :
 - https://www.linkedin.com/in/rezashokrzad/
 - https://www.kaggle.com/rezashokrzad
