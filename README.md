@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezashokrzad
-- 👀 I’m interested in Data Science, ML, DL, AI, GA, Statistics, Mathematics
-- 📫 How to reach me :
+- 👀 Interested in DS, ML, AI, GA, Statistics, Mathematics
+- 📫 Contact:
 - https://www.linkedin.com/in/rezashokrzad/
 - https://www.kaggle.com/rezashokrzad
 
